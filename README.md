@@ -1,5 +1,9 @@
-# 2022-SW-AI-competition
+# 2022 SW AI Competition
 # Korean scene text recognition(OCR).
+
+- **Organiser**: National Program of Excellence in Software
+- **Period**: 1st - 26th Aug, 2022 (Qualifying round) / 8th Sep - 7th Oct, 2022 (Final round)
+  
 https://dacon.io/competitions/official/235970/overview/description 
 ### (2022.09.08 ~ 2022.10.07 Final round)
 
